@@ -46,4 +46,22 @@
 
 ## Chat
 
-## Agents
+## Agent
+
+> Coding agent
+
+1. About coding agent
+2. Agent management
+   - Centralized control page in `Agents` tab.
+3. Custom agents (Specialized versions)
+   - Defined using markdown file called as agent profiles (artifact)
+   - Defined custom agent at:
+     - Project-specific repo level `.github/agents/CUSTOM-AGENT-NAME.md`.
+     - Organization or enterprise level `/agents/CUSTOM-AGENT-NAME.md` in a .github-private repository.
+4. Access management
+5. MCP and coding agent
+
+> Code review
+> Copilot CLI
+> OpenAI Codex
+> Enterprise management

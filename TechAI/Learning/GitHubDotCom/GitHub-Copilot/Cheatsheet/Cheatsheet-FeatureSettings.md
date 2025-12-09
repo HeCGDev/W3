@@ -19,3 +19,10 @@
 - **Chat**
   - Copilot chat modes
     - Subagent: `chat.customAgentInSubagent.enabled`
+- **Agents**
+  - Coding agent
+    - Agent management: Agents tab `github.com/copilot/agents` URL.
+    - Custom agents:
+      - Project-specific repo level `.github/agents/CUSTOM-AGENT-NAME.md`.
+      - Organization or enterprise level `/agents/CUSTOM-AGENT-NAME.md`.
+  
